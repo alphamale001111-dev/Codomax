@@ -44,3 +44,8 @@ active_env/
 .DS_Store?
 ehthumbs.db
 Thumbs.db
+
+# Environments / Credentials
+.env
+.env.*
+
